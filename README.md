@@ -48,7 +48,7 @@
 </div>
 <br>	
 <br>
-	<div align="center"><h2><strong>📌 Veja abaixo meus principais projetos! ⤵️</strong></h2></div>
+	<div align="center"><h2><strong>📌 Veja abaixo meus projetos! ⤵️</strong></h2></div>
 
   
 
