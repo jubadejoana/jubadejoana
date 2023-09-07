@@ -7,7 +7,7 @@
 	
  💾 - Cursando Análise e Desenvolvimento de Sistemas pela Estácio Bahia.
 
- 💻 - Estudante da Dio - Santander Bootcamp Backend Java.
+ 💻 - Estudante da Dio - Santander Bootcamp Backend Java e Java com Cloud AWS.
 
  🐛 🦋 E em constante aprendizado!
 
